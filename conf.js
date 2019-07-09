@@ -14,7 +14,7 @@ jsproxy_config({
       label: '演示服务-香港节点',
       lines: {
         // 主机:权重
-        'https://45.77.30.20.nip.io:8443': 1,
+        '45.77.30.20.nip.io:8443': 1,
       }
     },
     'demo-sg': {
